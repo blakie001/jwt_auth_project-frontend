@@ -25,23 +25,17 @@ This is the frontend of the **JWT Auth Project**, built with **React.js**. It pr
 
 ## How to Run
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/blakie001/jwt_auth_project-frontend.git
 
  ## Navigate to the project directory:
 
-bash
-Copy
 cd jwt_auth_project_frontend
 
  ## Install dependencies:
 
-bash
-Copy
 npm install
  ## Start the development server:
 
-bash
-Copy
 npm start
  ## Open your browser and navigate to http://localhost:3000.
